@@ -1,0 +1,5 @@
+{
+  "name": "VibePredict Fashion Edition",
+  "description": "SaaS para vendedores de Mercado Libre Chile que predice tendencias de moda y riesgos de stock usando datos de búsqueda y clima.",
+  "requestFramePermissions": []
+}
